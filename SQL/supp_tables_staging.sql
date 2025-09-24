@@ -1,7 +1,0 @@
-SHOW TABLES;
-
-DROP TABLE IF EXISTS stg_wiki;
-DROP TABLE IF EXISTS stg_airbnb;
-DROP TABLE IF EXISTS stg_numbeo;
-DROP TABLE IF EXISTS stg_eurostat;
-DROP TABLE IF EXISTS stg_worlddata;
